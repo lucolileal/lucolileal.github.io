@@ -1,10 +1,9 @@
-title: "Lucas Leal"
+title: "Exercicios de Processamento digital de imagens"
 description: "Exercicios de processamento digital de imagens"
-author:
-  name: "Lucas de Oliveira Leal"
-  email: "lucolileal@gmail.com"
-  url: "https://username.github.io"
+author: "Lucas de Oliveira Leal"
 url: "https://username.github.io" 
 theme: minima
-skin: dark 
+minima:
+  skin: dark
+  
 paginate: 5
