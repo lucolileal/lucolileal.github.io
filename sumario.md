@@ -6,5 +6,5 @@ permalink: /sumario/
 
 # Sumário
 
-[1.1 Regiões](./regiao.md)  
-[1.2 Regiões](./trocaregiao.md)
+[1.1 Região](./regiao)   
+[1.2 Troca de Regiões](./trocaregiao)
