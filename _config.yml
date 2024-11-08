@@ -4,4 +4,7 @@ author: ""
 url: "https://username.github.io" 
 theme: minima
 
+header_pages:
+  - index.md
+  - about.md
 
