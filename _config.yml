@@ -3,5 +3,8 @@ description: "Exercicios de processamento digital de imagens"
 author:
   name: "Lucas de Oliveira Leal"
   email: "lucolileal@gmail.com"
-url: "https://username.github.io" # URL do GitHub Pages
+  url: "https://username.github.io"
+url: "https://username.github.io" 
 theme: minima
+skin: dark 
+paginate: 5
