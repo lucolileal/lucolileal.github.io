@@ -1,3 +1,7 @@
-title: "Lucas de Oliveira Leal"
-description: "Este é meu site pessoal usando Jekyll"
-theme: jekyll-theme-cayman # Escolha de um tema padrão
+title: "Lucas Leal"
+description: "Exercicios de processamento digital de imagens"
+author:
+  name: "Lucas de Oliveira Leal"
+  email: "lucolileal@gmail.com"
+url: "https://username.github.io" # URL do GitHub Pages
+theme: minima
