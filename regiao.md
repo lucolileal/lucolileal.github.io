@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Região"
-permalink: /regiao/
+permalink: /sumario/regiao
 ---
 
 # Região
