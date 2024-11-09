@@ -55,9 +55,9 @@ int main(int, char**) {
 }
 ````
 
- O código recebe a imagem [bob.png](images/bob.png) e varre pixel a pixel da imagem e copia o pixel na posição alterada da imagem copiada, gerando assim o resultado mostrado na [Figura 1][figura1]
+ O código recebe a imagem [bob.png](../images/bob.png) e varre pixel a pixel da imagem e copia o pixel na posição alterada da imagem copiada, gerando assim o resultado mostrado na [Figura 1][figura1]
 
-[figura1]: images/troca.png "Figura 1: troca.png"
+[figura1]: ../images/troca.png "Figura 1: troca.png"
 ![Figura 1: troca.png][figura1]  
 *Figura 1: troca.png*
 
