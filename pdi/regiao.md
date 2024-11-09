@@ -105,14 +105,14 @@ int main(int, char**) {
 }
 ````
 
-O código está divido em duas partes, na primeira ele trabalha com a imagem original, [bob.png](images/bob.png), em escalas de cinza, recebe os valores das cordenadas e faz a operação de inverter o tom de cinza dentro do retangulo formado, como mostrado na [Figura 1][figura1]
+O código está divido em duas partes, na primeira ele trabalha com a imagem original, [bob.png](../images/bob.png), em escalas de cinza, recebe os valores das cordenadas e faz a operação de inverter o tom de cinza dentro do retangulo formado, como mostrado na [Figura 1][figura1]
 
-[figura1]: images/regiao.png "Figura 1: regiao.png"
+[figura1]: ../images/regiao.png "Figura 1: regiao.png"
 ![Figura 1: regiao.png][figura1]  
 *Figura 1: regiao.png*
 
 A segunda parte do código, faz algo semelhante, porém com a imagem colorida. Para isso ela pega cada um dos valores RGB de cada pixel e inverte eles, resultando na [Figura 2][figura2]
 
-[figura2]: images/regiao-color.png "Figura 2: regiao-color.png"
+[figura2]: ../images/regiao-color.png "Figura 2: regiao-color.png"
 ![Figura 2: regiao-color.png][figura2]  
 *Figura 2: regiao-color.png*
