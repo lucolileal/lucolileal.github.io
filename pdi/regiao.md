@@ -105,7 +105,7 @@ int main(int, char**) {
 }
 ````
 
-O código está divido em duas partes, na primeira ele trabalha com a imagem em escalas de cinza, recebe os valores das cordenadas e faz a operação de inverter o tom de cinza dentro do retangulo formado, como mostrado na [Figura 1][figura1]
+O código está divido em duas partes, na primeira ele trabalha com a imagem original, [bob.png](images/bob.png), em escalas de cinza, recebe os valores das cordenadas e faz a operação de inverter o tom de cinza dentro do retangulo formado, como mostrado na [Figura 1][figura1]
 
 [figura1]: images/regiao.png "Figura 1: regiao.png"
 ![Figura 1: regiao.png][figura1]  
