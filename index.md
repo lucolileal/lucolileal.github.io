@@ -3,5 +3,4 @@ layout: default
 title: "Página Inicial"
 ---
 
-# Bem-vindo ao Meu Site
-Este site é construído com Jekyll e hospedado no GitHub Pages.
+[Exercicios de Processamento digital de imagens](./pdi) 
