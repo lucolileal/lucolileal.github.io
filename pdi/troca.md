@@ -61,4 +61,5 @@ int main(int, char**) {
 ![Figura 1: troca.png][figura1]  
 *Figura 1: troca.png*
 
+
 [Voltar para lista de exercicios](../pdi) 
