@@ -6,7 +6,7 @@ permalink: /pdi/regiao
 
 # Região
 O exercicio propõe fazer um programa que recebe dois pontos dentro dos limites da imagem fornecida e gera um retangulo com o negativo da imagen utilizando os pontos como vertices opostos.
-Para isso, utilizando o código [pixels.cpp]([https://exemplo.com](https://agostinhobritojr.github.io/tutorial/pdi/pixels.html#ex-pixels) "pixels.cpp") disponibilizado pelo professor como base, foi feito o seguinte código:
+Para isso, utilizando o código [pixels.cpp](https://agostinhobritojr.github.io/tutorial/pdi/pixels.html#ex-pixels) disponibilizado pelo professor como base, foi feito o seguinte código:
 
 ```cpp
 #include <iostream>
@@ -116,3 +116,6 @@ A segunda parte do código, faz algo semelhante, porém com a imagem colorida. P
 [figura2]: ../images/regiao-color.png "Figura 2: regiao-color.png"
 ![Figura 2: regiao-color.png][figura2]  
 *Figura 2: regiao-color.png*
+
+
+[Voltar para lista de exercicios](../pdi) 
